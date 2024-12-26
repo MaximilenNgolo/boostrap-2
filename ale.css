@@ -1,0 +1,28 @@
+.h1-custom{
+    letter-spacing: 10px;
+    font-size: 15px;
+    
+
+}
+
+.custom-header{
+    background:linear-gradient(transparent, black), url(./ciel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    list-style-type: none;
+}
+
+footer{
+    justify-content: space-around;
+}
+.card-custom{
+    animation: 0.4s;
+}
+.card-custom:hover{
+    transform: scale(1.1);
+}
+.nav-custom{
+    z-index: 999;
+}
